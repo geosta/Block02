@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block02</string>
+    <string name="textView_prompt">Επιλέξτε ένα ζώο</string>
+
+    <string name="dog">Σκύλος</string>
+    <string name="cat">Γάτα</string>
+    <string name="pig">Γουρούνι</string>
+    <string name="horse">Αλογο</string>
+    <string name="toastMessage">Επιλέξατε:</string>
+</resources>
